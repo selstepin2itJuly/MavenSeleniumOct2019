@@ -102,7 +102,7 @@ public class TestBase {
 				 t.initCause(null);
 				
 		}
-		//Open URL
+		//Open URL From here
 		dr.get(url);
 		/*Set<Cookie> cook = dr.manage().getCookies();
 		System.out.println(cook);
