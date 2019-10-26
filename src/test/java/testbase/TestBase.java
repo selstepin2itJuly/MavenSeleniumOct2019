@@ -103,7 +103,7 @@ public class TestBase {
 				
 		}
 		//Open URL From here
-		//NEw URL
+		//NEw URL for driver to open
 		dr.get(url);
 		/*Set<Cookie> cook = dr.manage().getCookies();
 		System.out.println(cook);
